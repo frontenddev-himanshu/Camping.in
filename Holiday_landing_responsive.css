@@ -1,0 +1,16 @@
+/* laptop view */
+@media screen and (max-width:1366px) {
+    nav {
+        width: 80%;
+    }
+
+    .front {
+        width: 80%;
+    }
+
+    .location-container {
+        width: 80%;
+    }
+}
+
+
